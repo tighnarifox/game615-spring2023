@@ -15,4 +15,4 @@ Enjoy looking at this very impractical machine to transport fresh donuts.
 [**Link to source (GitHub page)**](https://tighnarifox.github.io/game615-spring2023-02/exercisee02/play/) 
 
 **Assets Attribution:**
-@@Medieval Village Pack by Quaternius via Poly Pizza@@
+@@ Medieval Village Pack by Quaternius via Poly Pizza @@
