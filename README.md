@@ -89,17 +89,17 @@ Get a high score
 
 **Assets Attribution:**
 
-**Exercise 5:** _"Aliens"_
+**Exercise 5:** _"Life Simulator"_
 
 **Team:** Bunmi and Watkin
 
 **How to play:** 
-
+Move around in first person in your room
 
 **Game goal:** 
+Collect coins
 
-
-[**Playable link to game**](https://watkinhj.github.io/game615-spring2023/exercises/exercise05/play/) 
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023/exercises/exercise03/play/) 
 
 [**Link to source (GitHub page)**](https://github.com/Watkinhj/game615-spring2023-05) 
 
