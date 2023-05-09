@@ -157,10 +157,10 @@ Salad Bowl by Jarlan Perez [CC-BY] via Poly Pizza
 **Team:** Bunmi and Radha
 
 **How to play:** 
-Move around with arrow keys and press space 
+Move around with arrow keys 
 
 **Game goal:** 
-Get back home
+Avoid Venti and collect strawberries
 
 [**Playable link to game**](https://radha-cal.github.io/game615-spring2023-07/exercise07/play/) 
 
