@@ -91,7 +91,7 @@ Collect coins
 
 **Assets Attribution:**
 
-**Exercise 6:** _""_
+**Exercise 6:** _"Zombie Invasion"_
 
 **Team:** Bunmi Linden and Anthony
 
