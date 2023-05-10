@@ -90,6 +90,8 @@ Collect coins
 [**Link to source (GitHub page)**](https://github.com/Watkinhj/game615-spring2023-05) 
 
 **Assets Attribution:**
+venti character is from hoyoverse and was converted to a 3d model by Fullsus (314)
+BasicBedroomPack by Mavi 3D
 
 **Exercise 6:** _"Zombie Invasion"_
 
@@ -207,4 +209,11 @@ Get the wand for the king
 [**Link to source (GitHub page)**]() 
 
 **Assets Attribution:**
+Meadow dynamic nature by NatureManufacture
+Top down caves assets by Manufactura K4
+Sun temple Assets by Sandro T
+Vroid Studio
+Starter Assets by Unity
+"ICE WAND" () by ioanniskontes is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Old key" (https://skfb.ly/6UOJL) by SusanKing is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
