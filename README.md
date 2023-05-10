@@ -64,10 +64,11 @@ stylized environment by ink phantom https://assetstore.unity.com/publishers/1630
 **Team:** Bunmi and Justin
 
 **How to play:** 
-Get the cow and launch ALIENS before time runs out by pressing space and move down pressing D
+Get the six cows by launching ALIENS before time runs out by pressing space and move down pressing D
 
 **Game goal:** 
-Get the cow
+You're an alien spaceship floating in space and you need space cows. Get the 6 cows by launching the aliens to increase your score before the time runs out where you lose.
+
 
 [**Playable link to game**](https://tighnarifox.github.io/game615-spring2023-02/exercisee02/play/) 
 
@@ -130,7 +131,7 @@ bed DNK_DEV hospital horro pavk
 Move around with arrow keys and press space 
 
 **Game goal:** 
-Get back home
+Get back home and go to your friends for salad and beer 
 
 [**Playable link to game**](https://tighnarifox.github.io/game615-spring2023-midterm/midterm/play/) 
 
@@ -181,7 +182,7 @@ venti model by fullsus sketchfab
 Move around with arrow keys
 
 **Game goal:** 
-Navigate the maze
+Navigate the maze and avoid the enemt 
 
 [**Playable link to game**](https://marcinek.tech/game615-spring2023-08/play/) 
 
@@ -199,7 +200,7 @@ Tiger by Poly by Google [CC-BY] via Poly Pizza
 **Team:** Bunmi and Hongcheng
 
 **How to play:** 
-
+Solve the puzzles in the first location, find the waypoint in the second and get the wand in the third. Move character with arrow or WASD and click to interact with objects.
 
 **Game goal:** 
 Get the wand for the king
