@@ -207,7 +207,7 @@ Get the wand for the king
 
 [**Playable link to game**]() 
 
-[**Link to source (GitHub page)**]() 
+[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023-final) 
 
 **Assets Attribution:**
 Meadow dynamic nature by NatureManufacture
