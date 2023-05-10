@@ -67,7 +67,7 @@ stylized environment by ink phantom https://assetstore.unity.com/publishers/1630
 Get the six cows by launching ALIENS before time runs out by pressing space and move down pressing D
 
 **Game goal:** 
-You're an alien spaceship floating in space and you need space cows. Get the 6 cows by launching the aliens to increase your score before the time runs out where you lose.
+You're an alien spaceship that's lost control and is now rotating and floating in space but you need space cows. Get the 6 cows by launching the aliens to increase your score before the time runs out.
 
 
 [**Playable link to game**](https://tighnarifox.github.io/game615-spring2023-02/exercisee02/play/) 
@@ -182,7 +182,7 @@ venti model by fullsus sketchfab
 Move around with arrow keys
 
 **Game goal:** 
-Navigate the maze and avoid the enemt 
+Navigate the maze and avoid the enemy 
 
 [**Playable link to game**](https://marcinek.tech/game615-spring2023-08/play/) 
 
