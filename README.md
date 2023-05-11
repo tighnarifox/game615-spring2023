@@ -162,7 +162,7 @@ Salad Bowl by Jarlan Perez [CC-BY] via Poly Pizza
 **Team:** Bunmi and Radha
 
 **How to play:** 
-Move around with arrow keys 
+Move around with arrow keys, press e foor dance animations
 
 **Game goal:** 
 Avoid Venti and collect strawberries
