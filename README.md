@@ -70,9 +70,9 @@ Get the six cows by launching ALIENS before time runs out by pressing space and 
 You're an alien spaceship that's lost control and is now rotating and floating in space but you need space cows. Get the 6 cows by launching the aliens to increase your score before the time runs out.
 
 
-[**Playable link to game**](https://tighnarifox.github.io/game615-spring2023-02/exercisee02/play/) 
+[**Playable link to game**](https://drive.google.com/file/d/1FV15csqCPDcTLSlu7XW_EI7TaT_m1Xm0/view?usp=share_link) 
 
-[**Link to source (GitHub page)**](https://github.com/tighnarifox/game615-spring2023-02) 
+[**Link to source (GitHub page)**](https://github.com/jusmar518/game615-spring2023-04) 
 
 **Assets Attribution:**
 
