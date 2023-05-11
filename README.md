@@ -220,7 +220,7 @@ Solve the puzzles in the first location, find the waypoint in the second and get
 **Game goal:** 
 Get the wand for the king
 
-[**Playable link to game**]() 
+[**Playable link to game**](https://drive.google.com/drive/folders/19G7xJfkdOocILlWpi3dfDGkFLTAWmoOf) 
 
 [**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023-final) 
 
