@@ -185,12 +185,12 @@ Strawberries by Jarlan Perez [CC-BY] via Poly Pizza
 **Team:** Bunmi Kristen and Ben
 
 **How to play:** 
-Move around with arrow keys
+You're the new monkey in the zoo. Move around with arrow keys, collect bananas, allow the animals follow you, mouse over the poles to turn them a pretty color and learn about the animals and their names, click the button to make them your friends.
 
 **Game goal:** 
-Navigate the maze and learn about animals
+Navigate the maze and learn about animals. When you're done learning, click the button to become friends :)
 
-[**Playable link to game**](https://marcinek.tech/game615-spring2023-08/play/) 
+[**Playable link to game**](https://drive.google.com/file/d/1sriIIPa8zZEFhwNcN8172_wEr0VXmJYT/view?usp=share_link) 
 
 [**Link to source (GitHub page)**](https://github.com/kristenmarcinek/game615-spring2023-08) 
 
@@ -201,9 +201,14 @@ Banana Peeled by Sean Tarrant [CC-BY] via Poly Pizza
 
 Tiger by Poly by Google [CC-BY] via Poly Pizza
 
+https://stock.adobe.com/images/cartoon-collection-happy-zoo-animals/348117277
+
+"COD: Ghost's Wolf [+Puppy]" (https://skfb.ly/oBZuv) by Puppies4life is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Cow" (https://skfb.ly/o8J9T) by Weiting Ke is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
 "Animal Squad" (https://skfb.ly/6RtAt) by salmon97 is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 
-"Cow" (https://skfb.ly/o8J9T) by Weiting Ke is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 **Final:** _"The Secret of The Cave"_
 
