@@ -176,6 +176,10 @@ Exercise 7 fantasy city generator unity assets store - environment
 
 venti model by fullsus sketchfab
 
+Kitten by Poly by Google [CC-BY] via Poly Pizza
+
+Strawberries by Jarlan Perez [CC-BY] via Poly Pizza
+
 **Exercise 8:** "Monkey in a Zoo"
 
 **Team:** Bunmi Kristen and Ben
