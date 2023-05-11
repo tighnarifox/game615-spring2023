@@ -49,7 +49,7 @@ Get the pizzas and avoid the spiky balls.
 **Assets Attribution:**
 forest environment was made using assets from TriForge Assets
 
-venti character is from hoyoverse and was converted to a 3d model by Fullsus (314)
+venti character is from hoyoverse and was converted to a 3d model by Fullsus 
 
 "Naruto Sage" (https://skfb.ly/ouTUr) by 3D Resource is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/). 
 
@@ -75,6 +75,8 @@ You're an alien spaceship that's lost control and is now rotating and floating i
 [**Link to source (GitHub page)**](https://github.com/jusmar518/game615-spring2023-04) 
 
 **Assets Attribution:**
+
+Spaceship, aliens, cow from Google poly pizza, Space background is from Unity asset store, venti character is from hoyoverse and was converted to a 3d model by Fullsus (314)
 
 **Exercise 5:** _"Life Simulator"_
 
@@ -182,7 +184,7 @@ venti model by fullsus sketchfab
 Move around with arrow keys
 
 **Game goal:** 
-Navigate the maze and avoid the enemy 
+Navigate the maze and learn about animals
 
 [**Playable link to game**](https://marcinek.tech/game615-spring2023-08/play/) 
 
@@ -194,6 +196,10 @@ Orangutan by cameron_ [CC-BY] via Poly Pizza
 Banana Peeled by Sean Tarrant [CC-BY] via Poly Pizza
 
 Tiger by Poly by Google [CC-BY] via Poly Pizza
+
+"Animal Squad" (https://skfb.ly/6RtAt) by salmon97 is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+"Cow" (https://skfb.ly/o8J9T) by Weiting Ke is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 **Final:** _"The Secret of The Cave"_
 
